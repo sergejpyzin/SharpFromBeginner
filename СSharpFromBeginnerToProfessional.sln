@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsArithmaticOperations
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsExchangeRate", "LessonsExchangeRate\LessonsExchangeRate.csproj", "{7F498B83-43FC-4A30-8108-07E5325C4815}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsRomanNumerals", "LessonsRomanNumerals\LessonsRomanNumerals.csproj", "{87B0D84E-0407-4507-9E16-C5A4551A697C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magick", "Magick\Magick.csproj", "{901E0A9E-108A-4FFA-BCB1-E1B155C39D41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7F498B83-43FC-4A30-8108-07E5325C4815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F498B83-43FC-4A30-8108-07E5325C4815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F498B83-43FC-4A30-8108-07E5325C4815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B0D84E-0407-4507-9E16-C5A4551A697C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B0D84E-0407-4507-9E16-C5A4551A697C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B0D84E-0407-4507-9E16-C5A4551A697C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B0D84E-0407-4507-9E16-C5A4551A697C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901E0A9E-108A-4FFA-BCB1-E1B155C39D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901E0A9E-108A-4FFA-BCB1-E1B155C39D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901E0A9E-108A-4FFA-BCB1-E1B155C39D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901E0A9E-108A-4FFA-BCB1-E1B155C39D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
