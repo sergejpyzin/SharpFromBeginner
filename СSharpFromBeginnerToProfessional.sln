@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsArithmeticMean", "LessonsArithmeticMean\LessonsArithmeticMean.csproj", "{7998824B-8367-49F2-BA3B-9FCB5FD36C5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsArithmaticOperations", "LessonsArithmaticOperations\LessonsArithmaticOperations.csproj", "{E2584DBA-2643-48C2-8028-377531589DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7998824B-8367-49F2-BA3B-9FCB5FD36C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7998824B-8367-49F2-BA3B-9FCB5FD36C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7998824B-8367-49F2-BA3B-9FCB5FD36C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2584DBA-2643-48C2-8028-377531589DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2584DBA-2643-48C2-8028-377531589DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2584DBA-2643-48C2-8028-377531589DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2584DBA-2643-48C2-8028-377531589DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
