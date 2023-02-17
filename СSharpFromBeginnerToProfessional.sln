@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsArithmeticMean", "Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsArithmaticOperations", "LessonsArithmaticOperations\LessonsArithmaticOperations.csproj", "{E2584DBA-2643-48C2-8028-377531589DEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsExchangeRate", "LessonsExchangeRate\LessonsExchangeRate.csproj", "{7F498B83-43FC-4A30-8108-07E5325C4815}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E2584DBA-2643-48C2-8028-377531589DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2584DBA-2643-48C2-8028-377531589DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2584DBA-2643-48C2-8028-377531589DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F498B83-43FC-4A30-8108-07E5325C4815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F498B83-43FC-4A30-8108-07E5325C4815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F498B83-43FC-4A30-8108-07E5325C4815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F498B83-43FC-4A30-8108-07E5325C4815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,7 +24,6 @@ namespace LessonsArithmaticOperations
 
             // Выводим результат в консоль
             Console.WriteLine($"Сумма введенных чисел равна - {resSum}; Произведение введенных чисел равно - {resMult}");
-            Console.ReadLine();
         }
     }
 }
