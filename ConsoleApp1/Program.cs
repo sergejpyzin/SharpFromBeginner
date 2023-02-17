@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Runtime.InteropServices;
 
 namespace ConsoleApp1
 {
@@ -10,7 +7,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string data = "5";
+            string data2 = "2";
+            int a = int.Parse(data);
+            int b = int.Parse(data2);
+            int result = a + b;
+            Console.WriteLine(result);
         }
+        
     }
 }
