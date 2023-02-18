@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magick", "Magick\Magick.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsChetNechet", "LessonsChetNechet\LessonsChetNechet.csproj", "{A91AB40B-28DF-4C9D-B431-041A269A5514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testvisualstudiocode", "testvisualstudiocode\testvisualstudiocode.csproj", "{6DCC56A6-0B5C-46D5-9AB4-E1D2B1C4D4C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A91AB40B-28DF-4C9D-B431-041A269A5514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91AB40B-28DF-4C9D-B431-041A269A5514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91AB40B-28DF-4C9D-B431-041A269A5514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCC56A6-0B5C-46D5-9AB4-E1D2B1C4D4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCC56A6-0B5C-46D5-9AB4-E1D2B1C4D4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCC56A6-0B5C-46D5-9AB4-E1D2B1C4D4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCC56A6-0B5C-46D5-9AB4-E1D2B1C4D4C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,10 +13,12 @@ namespace LessonsChetNechet
             while (true)
             {
                 Console.Clear();
-                int count = 1;
+                int count = 0;
                 int chet = 0;
                 int nechet = 0;
                 int length;
+                int sumChet = 0;
+                int sumNechet = 0;
 
                 try
                 {
@@ -37,18 +39,21 @@ namespace LessonsChetNechet
                 {
                     if (count % 2 == 0)
                     {
+                        sumChet = sumChet + count;
                         Console.WriteLine(count);
                         chet++;
+
                     }
                     else
                     {
+                        sumNechet= sumNechet + count;
                         Console.WriteLine($"\t\t {count}");
                         nechet++;
                     }
                     count++;
                 }
-                Console.WriteLine($"В данном диапазоне {chet} четных чисел");
-                Console.WriteLine($"В данном диапазоне {nechet} нечетных чисел");
+                Console.WriteLine($"В данном диапазоне четных чисел - {chet}; \t\nих сумма - {sumChet}");
+                Console.WriteLine($"В данном диапазоне нечетных чисел - {nechet}; \t\nих сумма - {sumNechet}");
                 Console.ReadLine();
             }
         }
